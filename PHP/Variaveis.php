@@ -10,17 +10,17 @@
 </head>
 
 <body>
-    
-    <?php
-    
-    $numero = 15;
-    $numero_2 = 16;
-    $resultado = $numero + $numero_2;
 
-    echo "O Resultado da soma de $numero + $numero_2 é de $resultado";
+    <?php
+
+    $numero_int = 15;
+    $string = "Arroz com peixe";
+    $numero_float = 15.23;
+    $Bolean = true or false;
+
+?>
+
     
-    
-    ?>
 
 </body>
 

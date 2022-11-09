@@ -9,7 +9,8 @@
 </head>
 <body>
     <?php
-    echo "Hello World!";
+    echo "Hello World! (echo)<br>";
+    print "Hello World! (print)";
 ?>
 </body>
 </html>
