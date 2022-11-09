@@ -26,6 +26,7 @@
     $nome = "Gabriel";
     $Gabriel = "biel";
     echo $$nome;
+    
     ?>
 
 </body>
